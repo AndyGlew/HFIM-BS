@@ -2,7 +2,7 @@ See this project's github wiki:
 
 absolute: https://github.com/AndyGlew/HFIM-BS/wiki
 
-relative href="../../wiki", [relative](../../wiki)
+relative href="../../wiki", [](../../wiki) [../../wiki]()
 
 if you have cloned both project git repos, code and wiki
 this may link to your local clone, rather than back to github
